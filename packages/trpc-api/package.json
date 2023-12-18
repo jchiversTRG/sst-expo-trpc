@@ -1,0 +1,17 @@
+{
+  "name": "trpc-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trpc/client": "^10.44.1",
+    "@trpc/server": "^10.44.1"
+  },
+  "devDependencies": {}
+}
